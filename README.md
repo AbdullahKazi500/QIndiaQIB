@@ -50,7 +50,7 @@ Here, you can find files that cover various topics and concepts specific to sect
 This section is related to **introduction to quantum computing**.
 
 - Furthermore, we have the [Documentation/section-3](beta/Documentation/section-3) folder, which concentrates on documenting the content of section 3. 
-This section delves into **quantum algorithms**.
+This section delves into **quantum algorithms and protocols**.
 
 Additionally, we have a separate folder called **Tutorials** within the **beta** directory consisting on hands-on tutorial sections with [**Qiskit**](https://qiskit.org/). 
 - The [Tutorials/section-2](beta/Tutorials/section-2) folder is dedicated to tutorials related to introduction to quantum computing and Qiskit.
