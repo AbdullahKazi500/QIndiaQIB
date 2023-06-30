@@ -52,13 +52,13 @@ Topics
 - [ ] Additional resources for collection
 - [ ] Books ,blogs
 ## Section 5 Optional Use cases and applications
-● Quantum error correction
-● Post Quantum cryptography
-● Quantum AI/ Machine learning
-● Quantum simulation
-● Quantum Cryptography
-● Quantum Hardware
-● Quantum communication
-● Quantum sensing
+- [ ] Quantum error correction
+- [ ]  Post Quantum cryptography
+- [ ] Quantum AI/ Machine learning
+- [ ] Quantum simulation
+- [ ] Quantum Cryptography
+- [ ] Quantum Hardware
+- [ ] Quantum communication
+- [ ] Quantum sensing
 Made by Team QIndia
 By Mansi & Abdullah
