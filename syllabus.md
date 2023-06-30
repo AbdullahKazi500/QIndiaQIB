@@ -10,7 +10,7 @@ Updated March 2023
 product, matrix
 - [ ] notation, unitary, operators and projectors, eigenvalues and eigenvectors, probabilities and
 measurements
-- [ ] Linear algebra graphics 
+- [ ] Linear algebra 
 - [ ]  Stern Gerlach Experiment
 - [ ] Double slit experiment
 - [ ] Axioms of Quantum Mechanics
