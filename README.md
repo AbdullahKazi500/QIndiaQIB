@@ -1,4 +1,4 @@
-# Website for QIndia - Quantum Beginners Initiative
+# Archived/Shelved QIndia - Quantum Beginners Initiative
 
 ![logo](https://github.com/AbdullahKazi500/QIndia.github.io/assets/75779966/79a45128-74b9-4d49-9206-cccb342e5bfb)
 
