@@ -88,7 +88,7 @@ For detailed instructions, please refer the [contribution](https://github.com/Ab
 [Abdullah Kazi](https://github.com/AbdullahKazi500) ,[Mansi Tarani](https://github.com/MansiTarani?tab=repositories), Nasir
 
 
-## Content Author (Algorithms)/ Maintainer
+## Content Author (code)/ Maintainer
 [Akash Reddy](https://github.com/Akash6300) , [Kiran Kaur](https://github.com/KyranKaur) 
 
 ## Content Editor / Proof Reading / Technical Review / Advisor 
@@ -106,17 +106,21 @@ For detailed instructions, please refer the [contribution](https://github.com/Ab
 ## Coding exercises / Challenge Tutorials
 [Akash Reddy](https://github.com/Akash6300),Abdullah Kazi , [Kiran Kaur](https://github.com/KyranKaur)
 
+##  Challenge Tutorials
+Abdullah
+
 ## Quantum Beginners Intiative Team
 - [ ] Section 1&2:
-- [ ] Text Content/Theory – Abdullah, Mansi
+- [ ] Website -Abdullah
+- [ ] Text Content/Theory – Abdullah, Mansi, Nasir Ali
 - [ ] Coding Tutorials with theory(Jupyter Notebooks) – Akash, Kiran
 - [ ] Flowcharts and Infographics – Kiran
-- [ ] Graphics and Images – Kabir, Muskan 
+- [ ] Graphics and Images – Muskan 
 - [ ] Videos – Abdullah, Muskan
 - [ ] Section 3:
 - [ ] Text Content/Theory – Akash, Kiran
 - [ ] Coding Tutorials(Jupyter Notebooks) – Akash, Kiran
 - [ ] Flowcharts and Infographics – Kiran
-- [ ] Graphics and Images – Kabir, Muskan
+- [ ] Graphics and Images – Muskan
 - [ ] Videos – Abdullah, Muskan
 
