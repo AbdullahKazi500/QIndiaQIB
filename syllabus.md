@@ -49,7 +49,6 @@ Topics
 - [ ] Types of Quantum SDK ( open source )
 - [ ] Tools.
 - [ ] Frameworks
-- [ ] Additional resources for collection
 - [ ] Books ,blogs
 ## Section 5 Optional Use cases and applications
 - [ ] Quantum error correction
