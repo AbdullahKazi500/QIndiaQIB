@@ -111,7 +111,7 @@ Abdullah
 
 ## Quantum Beginners Intiative Team
 - [ ] Section 1&2:
-- [ ] Website -Abdullah
+- [ ] Website - Denisa Vitkova
 - [ ] Text Content/Theory – Abdullah, Mansi, Nasir Ali
 - [ ] Coding Tutorials with theory(Jupyter Notebooks) – Akash, Kiran
 - [ ] Flowcharts and Infographics – Kiran
