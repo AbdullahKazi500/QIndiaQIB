@@ -103,7 +103,7 @@ For detailed instructions, please refer the [contribution](https://github.com/Ab
 ## Infographics/ Flowcharts 
 [Kiran Kaur](https://github.com/KyranKaur)
 
-## Coding exercises / Challenge Tutorials
+## Coding exercises 
 [Akash Reddy](https://github.com/Akash6300),Abdullah Kazi , [Kiran Kaur](https://github.com/KyranKaur)
 
 ##  Challenge Tutorials
