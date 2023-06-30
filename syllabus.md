@@ -31,7 +31,7 @@ functions
 ## Section 3
 - [ ] superdense coding and Quantum Teleportation
 - [ ] Quantum Algorithm, Deutsch algorithm, Deutsch-Jozsa algorithm.
-- [ ]Grover search algorithm/Quantum amplitude estimation technique
+- [ ] Grover search algorithm/Quantum amplitude estimation technique
 - [ ]  Deutsch-Jozsa algorithm, Grover Search Algorithm
 - [ ] Significance of Quantum algorithms - exercise tutorials and Challenge exercises
 - [ ] Quantum Fourier Transform We might use the sphinx theme
