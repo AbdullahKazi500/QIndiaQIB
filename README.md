@@ -65,8 +65,6 @@ Additionally, we have a separate folder called **Tutorials** within the **beta**
 ## Todo
 - [ ] Adding a Work in Progress Banner header on top of the website 
 - [ ] Create a curated database of Quantum Computing internhips in India
-- [ ] Separate internships into seasonal (summer/winter) and throughout-the-year types
-- [ ] Add ability to filter database according to institution
 - [x] Improve the appearance of tables in the database
 - [x] Automate the generation of pdf from content lists
 - [ ] Automate looking up webpages to see if new program announcements are available 
@@ -82,7 +80,7 @@ Resolving existing issues
 For detailed instructions, please refer the [contribution](https://github.com/AbdullahKazi500/QIndia.github.io/blob/master/Contributing.md) guidelines
 
 ## Attribution
-[Minimal Mistake Theme](https://github.com/mmistakes)
+[WowChemy by Hugo ](https://github.com/wowchemy)
 
 ## Content Author (Theory) / Maintainer
 [Abdullah Kazi](https://github.com/AbdullahKazi500) ,[Mansi Tarani](https://github.com/MansiTarani?tab=repositories), Nasir
