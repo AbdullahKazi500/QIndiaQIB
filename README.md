@@ -32,7 +32,7 @@ Blog and tutorial series with Qiskit focused on helping Quantum beginners find t
   - Tutorials
     - [Section 2](beta/Tutorials/section-2)
     - [Section 3](beta/Tutorials/section-3)
-    - Challenge exercise
+  - Challenge exercise
     - [Challenge exercise](https://github.com/AbdullahKazi500/QIndiaQIB/blob/main/Challenge_Exercises_.ipynb)
 ---
 
