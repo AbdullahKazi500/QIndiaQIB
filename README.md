@@ -25,6 +25,7 @@ Blog and tutorial series with Qiskit focused on helping Quantum beginners find t
 - [Home](https://github.com/AbdullahKazi500/QIndiaQIB/tree/main)
 - beta
   - Documentation
+  - [Theory Section 1 & 2](https://github.com/AbdullahKazi500/QIndiaQIB/blob/main/QIndia%20(1).pdf)
     - [Section 1](beta/Documentation/section-1)
     - [Section 2](beta/Documentation/section-2)
     - [Section 3](beta/Documentation/section-3)
