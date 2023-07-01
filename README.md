@@ -105,6 +105,9 @@ For detailed instructions, please refer the [contribution](https://github.com/Ab
 ## Coding exercises 
 [Akash Reddy](https://github.com/Akash6300),Abdullah Kazi , [Kiran Kaur](https://github.com/KyranKaur)
 
+##  Website 
+Denisa Vitkova
+
 ##  Challenge Tutorials
 Abdullah
 
