@@ -44,20 +44,11 @@ functions
 - [ ] Shor's algorithm
 Topics
 - [ ] QAOA
-
 ## Section 4 Optional
 - [ ] Types of Quantum SDK ( open source )
 - [ ] Tools.
 - [ ] Frameworks
 - [ ] Books ,blogs
-## Section 5 Optional Use cases and applications
-- [ ] Quantum error correction
-- [ ]  Post Quantum cryptography
-- [ ] Quantum AI/ Machine learning
-- [ ] Quantum simulation
-- [ ] Quantum Cryptography
-- [ ] Quantum Hardware
-- [ ] Quantum communication
-- [ ] Quantum sensing
+
 Made by Team QIndia
 By Mansi & Abdullah
